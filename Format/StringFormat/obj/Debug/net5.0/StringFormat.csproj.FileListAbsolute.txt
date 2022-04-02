@@ -1,0 +1,15 @@
+/Users/mitourk/Projects/vs2019/ConsoleEx1/StringFormat/bin/Debug/net5.0/StringFormat.deps.json
+/Users/mitourk/Projects/vs2019/ConsoleEx1/StringFormat/bin/Debug/net5.0/StringFormat.runtimeconfig.json
+/Users/mitourk/Projects/vs2019/ConsoleEx1/StringFormat/bin/Debug/net5.0/StringFormat.runtimeconfig.dev.json
+/Users/mitourk/Projects/vs2019/ConsoleEx1/StringFormat/bin/Debug/net5.0/StringFormat.dll
+/Users/mitourk/Projects/vs2019/ConsoleEx1/StringFormat/bin/Debug/net5.0/ref/StringFormat.dll
+/Users/mitourk/Projects/vs2019/ConsoleEx1/StringFormat/bin/Debug/net5.0/StringFormat.pdb
+/Users/mitourk/Projects/vs2019/ConsoleEx1/StringFormat/obj/Debug/net5.0/StringFormat.csproj.AssemblyReference.cache
+/Users/mitourk/Projects/vs2019/ConsoleEx1/StringFormat/obj/Debug/net5.0/StringFormat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mitourk/Projects/vs2019/ConsoleEx1/StringFormat/obj/Debug/net5.0/StringFormat.AssemblyInfoInputs.cache
+/Users/mitourk/Projects/vs2019/ConsoleEx1/StringFormat/obj/Debug/net5.0/StringFormat.AssemblyInfo.cs
+/Users/mitourk/Projects/vs2019/ConsoleEx1/StringFormat/obj/Debug/net5.0/StringFormat.csproj.CoreCompileInputs.cache
+/Users/mitourk/Projects/vs2019/ConsoleEx1/StringFormat/obj/Debug/net5.0/StringFormat.dll
+/Users/mitourk/Projects/vs2019/ConsoleEx1/StringFormat/obj/Debug/net5.0/ref/StringFormat.dll
+/Users/mitourk/Projects/vs2019/ConsoleEx1/StringFormat/obj/Debug/net5.0/StringFormat.pdb
+/Users/mitourk/Projects/vs2019/ConsoleEx1/StringFormat/obj/Debug/net5.0/StringFormat.genruntimeconfig.cache

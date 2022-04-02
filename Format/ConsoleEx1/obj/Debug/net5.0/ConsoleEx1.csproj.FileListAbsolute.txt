@@ -1,0 +1,15 @@
+/Users/mitourk/Projects/vs2019/ConsoleEx1/ConsoleEx1/bin/Debug/net5.0/ConsoleEx1.deps.json
+/Users/mitourk/Projects/vs2019/ConsoleEx1/ConsoleEx1/bin/Debug/net5.0/ConsoleEx1.runtimeconfig.json
+/Users/mitourk/Projects/vs2019/ConsoleEx1/ConsoleEx1/bin/Debug/net5.0/ConsoleEx1.runtimeconfig.dev.json
+/Users/mitourk/Projects/vs2019/ConsoleEx1/ConsoleEx1/bin/Debug/net5.0/ConsoleEx1.dll
+/Users/mitourk/Projects/vs2019/ConsoleEx1/ConsoleEx1/bin/Debug/net5.0/ref/ConsoleEx1.dll
+/Users/mitourk/Projects/vs2019/ConsoleEx1/ConsoleEx1/bin/Debug/net5.0/ConsoleEx1.pdb
+/Users/mitourk/Projects/vs2019/ConsoleEx1/ConsoleEx1/obj/Debug/net5.0/ConsoleEx1.csproj.AssemblyReference.cache
+/Users/mitourk/Projects/vs2019/ConsoleEx1/ConsoleEx1/obj/Debug/net5.0/ConsoleEx1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mitourk/Projects/vs2019/ConsoleEx1/ConsoleEx1/obj/Debug/net5.0/ConsoleEx1.AssemblyInfoInputs.cache
+/Users/mitourk/Projects/vs2019/ConsoleEx1/ConsoleEx1/obj/Debug/net5.0/ConsoleEx1.AssemblyInfo.cs
+/Users/mitourk/Projects/vs2019/ConsoleEx1/ConsoleEx1/obj/Debug/net5.0/ConsoleEx1.csproj.CoreCompileInputs.cache
+/Users/mitourk/Projects/vs2019/ConsoleEx1/ConsoleEx1/obj/Debug/net5.0/ConsoleEx1.dll
+/Users/mitourk/Projects/vs2019/ConsoleEx1/ConsoleEx1/obj/Debug/net5.0/ref/ConsoleEx1.dll
+/Users/mitourk/Projects/vs2019/ConsoleEx1/ConsoleEx1/obj/Debug/net5.0/ConsoleEx1.pdb
+/Users/mitourk/Projects/vs2019/ConsoleEx1/ConsoleEx1/obj/Debug/net5.0/ConsoleEx1.genruntimeconfig.cache
